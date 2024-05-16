@@ -8,6 +8,8 @@ The ALX SE Programme is a comprehensive deep-dive into software engineering, cov
 
 ## Modules and Repositories
 
+## Foundation Section 9-months
+
 ### Low-level programming with C
   - [alx-low_level_programming](https://github.com/0marSalah/alx-low_level_programming)
   - [binary_trees](https://github.com/0marSalah/binary_trees)
@@ -29,7 +31,7 @@ The ALX SE Programme is a comprehensive deep-dive into software engineering, cov
   - [portfolio_backend](https://github.com/0marSalah/alx-portfolio-back)
   - [portfolio_frontend](https://github.com/AmrShoukry/time_tracker_pro)
 
-## Specialization Projects
+## Specialization Section 3-months
   - [Basic Concept of Backend Development](https://github.com/0marSalah/alx-backend)
   - [Javascript, Nodejs and Typescript](https://github.com/0marSalah/alx-backend)
   - [Network and Authentication using Python](https://github.com/0marSalah/alx-backend-user-data)
