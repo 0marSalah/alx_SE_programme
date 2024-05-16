@@ -29,6 +29,24 @@ The ALX SE Programme is a comprehensive deep-dive into software engineering, cov
   - [portfolio_backend](https://github.com/0marSalah/alx-portfolio-back)
   - [portfolio_frontend](https://github.com/AmrShoukry/time_tracker_pro)
 
+## Specialization Projects
+  - [Basic Concept of Backend Development](https://github.com/0marSalah/alx-backend)
+  - [Javascript, Nodejs and Typescript](https://github.com/0marSalah/alx-backend)
+  - [Network and Authentication using Python](https://github.com/0marSalah/alx-backend-user-data)
+  - [Databases](https://github.com/0marSalah/alx-backend-storage)
+  - [Basic Backend concepts with Python](https://github.com/0marSalah/alx-backend-python)
+
+## Final Project (Our graduation project)
+  [OnClick Academy](https://github.com/onclick-academy)
+  - [Backend Code](https://github.com/onclick-academy/onclick-server)
+  - [Frontend Code](https://github.com/onclick-academy/onclick-client)
+  We implement this Lerning Manage,ment System using
+      - Nodejs with express library
+      - Prisma ORM with postgress
+      - Nextjs v14
+      - Styling with MUI
+      - Hosting on Azure and Cloudflare R2 bucket and workers
+
 
 ## How to Use This Repository
 
